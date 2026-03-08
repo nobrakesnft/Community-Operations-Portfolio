@@ -24,6 +24,8 @@ My work includes moderation, community support, onboarding new members, and help
 
 ![Community recognition](images/Commendation from aries icircles.png)
 
+![Best team proof](images/best team proof.png)
+
 ---
 
 ## Moderator & Admin Roles
@@ -49,6 +51,8 @@ My work includes moderation, community support, onboarding new members, and help
 ## Ambassador Role
 
 ![Ambassador](images/Icircle Ambassador.png)
+
+![Founder chat](images/Modclub founder chat.png)
 
 ---
 
