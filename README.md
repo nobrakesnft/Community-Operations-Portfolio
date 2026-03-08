@@ -2,23 +2,13 @@
 
 Hi, I'm Emmanuel Abbah.
 
-I specialize in Web3 community operations, moderation, and engagement across Discord and Telegram communities.
+I specialize in Web3 community operations, moderation, and engagement across Discord communities.
 
-My work focuses on:
-
-• Community moderation and support  
-• Server structure and role management  
-• Anti-spam and scam prevention  
-• User onboarding and engagement  
-• Communication between founders and community members  
-
-Below are examples of my work in different Web3 communities.
+My work includes moderation, community support, onboarding new members, and helping founders manage healthy Web3 communities.
 
 ---
 
-## Founder Communication & Trust
-
-Example of direct communication with founders regarding community operations.
+## Founder Communication
 
 ![Founder communication](images/Wannapanda founder chat.png)
 
@@ -28,54 +18,51 @@ Example of direct communication with founders regarding community operations.
 
 ## Community Recognition
 
-Recognition and appreciation from founders and community members.
+![Founder gratitude](images/Wannapanda founder gratitude.png)
 
-![Community praise](images/Wannapanda founder gratitude.png)
+![Community commendation](images/commendation.png)
 
-![Community recognition](images/commendation.png)
+![Community recognition](images/Commendation from aries icircles.png)
 
 ---
 
-## Moderator / Admin Roles
-
-Examples showing my roles and responsibilities in Web3 Discord communities.
+## Moderator & Admin Roles
 
 ![Admin role](images/Modclub admin.png)
 
 ![Moderator roles](images/My roles in Lacoste.png)
 
+![Team role](images/Lacoste team.png)
+
 ---
 
 ## Community Engagement
 
-Helping users, answering questions, and supporting community discussions.
+![Discussion](images/Discussion with safran.png)
 
-![Community discussion](images/Discussion with safran.png)
+![IC Gallery](images/ICGallery Plethora.png)
 
-![Community support](images/ICGallery Plethora.png)
+![Founder discussion](images/Plethora icgallery founder.png)
 
 ---
 
-## Ambassador & Contributor Roles
+## Ambassador Role
 
-Participation in NFT and Web3 communities as an ambassador and contributor.
-
-![Ambassador role](images/Icircle Ambassador.png)
-
-![Community team](images/Lacoste team.png)
+![Ambassador](images/Icircle Ambassador.png)
 
 ---
 
 ## Skills
 
 • Discord Community Management  
-• Telegram Moderation  
-• Web3 Community Growth  
-• Community Security & Anti-Scam Moderation  
-• Founder & Community Communication  
+• Web3 Community Moderation  
+• User Support & Onboarding  
+• Anti-Spam & Scam Protection  
+• Community Engagement  
+• Founder Communication  
 
 ---
 
 ## Contact
 
-LinkedIn: https://www.linkedin.com/in/emmanuelabbah/
+LinkedIn: https://linkedin.com](https://www.linkedin.com/in/emmanuelabbah/
