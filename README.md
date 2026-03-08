@@ -8,9 +8,11 @@ I specialize in Web3 community operations and moderation, helping projects build
 
 ## Founder Communication
 
-![Founder communication]("images/Wannapanda founder chat.png")
+![Founder communication](images/Wannapanda%20appointment%20dm.png)
 
-![Founder appointment]("images/Wannapanda appointment dm.png")
+![Founder chat](images/Wannapanda%20founder%20chat.png)
+
+![Founder gratitude](images/Wannapanda%20founder%20gratitude.png)
 
 ---
 
