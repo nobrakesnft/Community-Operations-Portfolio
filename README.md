@@ -10,7 +10,7 @@ My work focuses on community support, moderation, onboarding, security, and work
 
 ## Founder Communication
 
-![Founder communication](images/wannapanda-founder-chat.png)
+![Founder communication](images/wannapandafounderchat.png)
 
 ![Founder appointment](images/wannapanda-appointment.png)
 
