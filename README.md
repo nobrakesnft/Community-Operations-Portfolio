@@ -2,71 +2,80 @@
 
 Hi, I'm Emmanuel Abbah.
 
-I specialize in Web3 community operations, moderation, and engagement across Discord communities.
+I specialize in Web3 community operations and moderation, helping projects build safe, engaged, and well-managed communities across Discord and Web3 ecosystems.
 
-My work includes moderation, community support, onboarding new members, and helping founders manage healthy Web3 communities.
+My work focuses on community support, moderation, onboarding, security, and working closely with founders to maintain healthy and active communities.
 
 ---
 
 ## Founder Communication
 
-![Founder communication](images/Wannapanda founder chat.png)
+![Founder communication](images/wannapanda-founder-chat.png)
 
-![Founder appointment](images/Wannapanda appointment dm.png)
+![Founder appointment](images/wannapanda-appointment.png)
 
 ---
 
 ## Community Recognition
 
-![Founder gratitude](images/Wannapanda founder gratitude.png)
+![Founder gratitude](images/wannapanda-founder-gratitude.png)
 
 ![Community commendation](images/commendation.png)
 
-![Community recognition](images/Commendation from aries icircles.png)
+![Community recognition](images/aries-commendation.png)
 
-![Best team proof](images/best team proof.png)
+![Best team proof](images/best-team-proof.png)
 
 ---
 
 ## Moderator & Admin Roles
 
-![Admin role](images/Modclub admin.png)
+![Admin role](images/modclub-admin.png)
 
-![Moderator roles](images/My roles in Lacoste.png)
+![Moderator roles](images/lacoste-roles.png)
 
-![Team role](images/Lacoste team.png)
+![Team role](images/lacoste-team.png)
+
+![Founder chat](images/modclub-founder-chat.png)
 
 ---
 
 ## Community Engagement
 
-![Discussion](images/Discussion with safran.png)
+![Discussion with founder](images/discussion-safran.png)
 
-![IC Gallery](images/ICGallery Plethora.png)
+![IC Gallery](images/icgallery-plethora.png)
 
-![Founder discussion](images/Plethora icgallery founder.png)
+![Founder discussion](images/plethora-founder.png)
 
 ---
 
 ## Ambassador Role
 
-![Ambassador](images/Icircle Ambassador.png)
-
-![Founder chat](images/Modclub founder chat.png)
+![Ambassador role](images/icircle-ambassador.png)
 
 ---
 
 ## Skills
 
-• Discord Community Management  
-• Web3 Community Moderation  
+• Discord Community Moderation  
+• Web3 Community Management  
 • User Support & Onboarding  
-• Anti-Spam & Scam Protection  
+• Scam & Spam Protection  
 • Community Engagement  
 • Founder Communication  
+• Server Management  
+• Moderator Team Coordination  
+
+---
+
+## About Me
+
+I have worked with multiple Web3 communities supporting founders and helping manage active Discord servers. My experience includes moderation, managing roles, assisting community members, and helping projects maintain healthy engagement.
 
 ---
 
 ## Contact
 
-LinkedIn: https://linkedin.com](https://www.linkedin.com/in/emmanuelabbah/
+LinkedIn:https://www.linkedin.com/in/emmanuelabbah/ 
+GitHub: https://github.com/nobrakesnft
