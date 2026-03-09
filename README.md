@@ -12,47 +12,47 @@ I specialize in Web3 community operations and moderation, helping projects build
 
 ![Founder chat](images/Wannapanda%20founder%20chat.png)
 
-![Founder gratitude](images/Wannapanda%20founder%20gratitude.png)
 
 ---
 
 ## Community Recognition
 
-![Founder gratitude]("images/Wannapanda founder gratitude.png")
+![Founder gratitude](images/Wannapanda%20founder%20gratitude.png)
 
-![Community commendation]("images/commendation.png")
+![Community commendation](images/commendation.png)
 
-![Community recognition]("images/Commendation from aries icircles.png")
+![Community recognition](images/Commendation%20from%20aries%20icircles.png)
 
-![Best team proof]("images/best team proof.png")
+![Best team proof](images/best%20team%20proof.png)
 
 ---
 
 ## Moderator & Admin Roles
 
-![Admin role]("images/Modclub admin.png")
+![Admin role](images/Modclub%20admin.png)
 
-![Moderator roles]("images/My roles in Lacoste.png")
+![Founder chat](images/Modclub%20founder%20chat.png)
 
-![Team role]("images/Lacoste team.png")
+![Moderator roles](images/My%20roles%20in%20Lacoste.png)
 
-![Founder chat]("images/Modclub founder chat.png")
+![Team role](images/Lacoste%20team.png)
+
 
 ---
 
 ## Community Engagement
 
-![Discussion with founder]("images/Discussion with safran.png")
+![Discussion](images/Discussion%20with%20safran.png)
 
-![IC Gallery]("images/ICGallery Plethora.png")
+![IC Gallery](images/ICGallery%20Plethora.png)
 
-![Founder discussion]("images/Plethora icgallery founder.png")
+![Founder discussion](images/Plethora%20icgallery%20founder.png)
 
 ---
 
 ## Ambassador Role
 
-![Ambassador role]("images/Icircle Ambassador.png")
+![Ambassador role](images/Icircle%20Ambassador.png)
 
 ---
 
