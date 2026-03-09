@@ -1,3 +1,4 @@
+# Web3 Community Operations Portfolio
 Hi, I'm Emmanuel Abbah.
 
 I specialize in Web3 community operations and moderation, helping projects build safe, engaged, and well-managed communities across Discord and Web3 ecosystems.
