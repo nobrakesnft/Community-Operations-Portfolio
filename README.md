@@ -1,10 +1,35 @@
-# Web3 Community Operations Portfolio
-
 Hi, I'm Emmanuel Abbah.
 
 I specialize in Web3 community operations and moderation, helping projects build safe, engaged, and well-managed communities across Discord and Web3 ecosystems.
 
 ---
+
+## Communities I Built & Structured
+
+I have built and structured Discord community infrastructure for several Web3 projects, including:
+
+• RainMakr AI Launchpad  
+• SuiPad  
+• Plethora / IC Gallery  
+• ModClub  
+• BitSui  
+• Additional Web3 NFT communities
+
+---
+
+## My Responsibilities
+
+Across these Web3 communities I contributed to:
+
+• Full Discord server setup and channel architecture  
+• Role hierarchy and permission systems  
+• Moderation workflows and escalation structure  
+• Bot configuration and moderation automation  
+• Community onboarding systems  
+• Moderator team coordination  
+• Community moderation and rule enforcement  
+• Scam prevention and spam control  
+• Founder and community communication
 
 ## Founder Communication
 
