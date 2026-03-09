@@ -94,6 +94,17 @@ Across these Web3 communities I contributed to:
 
 ---
 
+## Tools & Platforms
+
+• Discord
+• Telegram
+• MEE6
+• Dyno
+• Alphabot
+• Community moderation systems... Many more
+
+---
+
 ## About Me
 
 I have worked with multiple Web3 communities supporting founders and helping manage active Discord servers.
