@@ -32,6 +32,21 @@ Across these Web3 communities I contributed to:
 • Scam prevention and spam control  
 • Founder and community communication
 
+---
+
+## Community Growth & Partnerships
+
+I supported community expansion through strategic partnerships and collaboration campaigns across Web3 communities.
+
+Key contributions included:
+
+• Coordinating whitelist (WL) and cross-community collaboration campaigns  
+• Building partnerships between Web3 communities to expand project reach  
+• Managing partnership announcements and engagement activities  
+• Supporting community growth through collaborative marketing initiatives
+
+---
+
 ## Founder Communication
 
 ![Founder communication](images/Wannapanda%20appointment%20dm.png)
