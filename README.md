@@ -61,7 +61,6 @@ Across these Web3 communities I contributed to:
 
 ![Moderator roles](images/My%20roles%20in%20Lacoste.png)
 
-![Team role](images/Lacoste%20team.png)
 
 
 ---
